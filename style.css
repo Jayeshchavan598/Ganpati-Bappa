@@ -1,0 +1,60 @@
+.heading{
+    text-align: center;
+    
+
+}
+.heading h1{
+    background-color:rgb(180, 120, 236) ;
+    padding: 5px;
+}
+
+
+
+img {
+    display: grid;
+    justify-content: center;
+    height: 350px;
+    margin: 0 auto;
+    border: thick 1px black;
+    border-radius: 200px;
+
+}
+
+
+body{
+    display: block;
+}
+
+.main{
+    color: black;
+    background-color: rgb(240, 172, 240);
+    padding: 30px  30px;
+    justify-content: center;
+    margin: 30px 40px 10px;
+    border-radius: 30px;
+}    
+
+nav{
+    margin: 0px;
+    
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+
+
+li{
+    display: list-item;
+    text-align: center;
+
+}
+
+
+
+
+.insta{
+    height: 3rem;
+}
+
